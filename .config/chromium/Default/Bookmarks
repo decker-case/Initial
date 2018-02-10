@@ -1,0 +1,46 @@
+{
+   "checksum": "48999d1a783f347ffd30b3bc9b082d00",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13162762348595918",
+               "id": "5",
+               "meta_info": {
+                  "last_visited_desktop": "13162762348597968"
+               },
+               "name": "List of applications/Utilities - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/List_of_applications/Utilities#Graphical"
+            } ],
+            "date_added": "13162762366004508",
+            "date_modified": "13162762366005341",
+            "id": "6",
+            "name": "Linux",
+            "type": "folder"
+         } ],
+         "date_added": "13162759179055526",
+         "date_modified": "13162762348595918",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13162759179055535",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13162759179055536",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
